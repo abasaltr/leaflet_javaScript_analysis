@@ -1,4 +1,4 @@
-# leaflet_javaScript_homework14
+# leaflet_javaScript_analysis
 
 USGS Earthquakes GeoJSON-1 <br>
 ***Note - please update config file with API key to render maps here - 
